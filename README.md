@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WangHuiying
 - 👀 I’m interested in NLP, ML, Marketing analysis, Operations Analysis and Stock Market Analysis.
-- 🌱 I’m currently learning NLP, such like "The Impact of Text Sentiment Analysis from Social Media and News on Stock Trends" and "Sentiment Analysis for Product Review Using Semantic Textual Similarity of SBERT"
+- 🌱 I’m currently learning NLP, such like Sentiment Analysis, Semantic Textual Similarity of SBERT, LDA for topic modelling. 
 - 💞️ I’m looking to collaborate on Data analyst
 - 📫 How to reach me wanghuiying95@gmail.com
 - 😄 Pronouns: Hui-in
